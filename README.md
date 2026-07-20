@@ -1,2 +1,2 @@
 # gitUseTest
-git
+git连接到github测试使用
